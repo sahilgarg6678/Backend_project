@@ -283,7 +283,7 @@ const ArrayofBlogs = [
     },
     {
         ID : '4',
-        Author : "Brajeswar Ghosh",
+        Author : "Sahil Garg",
         Image : "https://wiwibloggs.com/wp-content/uploads/2022/02/Cornelia-Jakobs-Hold-Me-Closer-Sweden-Eurovision-2022.jpg",
         Title : "“I found the right one at the wrong time” — Cornelia Jakobs’ “Hold Me Closer” lyrics lament the turmoil of a breakup",
         Body : "In 2011 and 2012, she participated as part of girl group Love Generation, and in 2021 she returned as one of the songwriters behind Efraim Leo’s “Best of Me”. Cornelia is the daughter of The Poodles’ Jakob Samuels — who took on the Melfest challenge in 2006 and 2008 — and has been surrounded by music all her life. Since she was just seven years old, she found her forte on the stage and grew up playing in various rock bands throughout middle school. Cornelia’s discography already boasts nine singles, with her debut studio album set for release soon. “Hold Me Closer” is about the emotional turmoil of working through a difficult breakup. Cornelia Jakobs sings about wanting to hold on to her significant other for as long as possible, even though she knows their relationship is coming to an end. With lyrics such as “I found the right one at the wrong time” and “guess all the good things come to an end”, Cornelia laments the happenstance and spontaneity of love.",
@@ -349,7 +349,7 @@ const ArrayofBlogs = [
     },
     {
         ID : '10',
-        Author : "Brajeswar Ghosh",
+        Author : "Sahil Garg",
         Image : "https://wiwibloggs.com/wp-content/uploads/2022/02/Cornelia-Jakobs-Hold-Me-Closer-Sweden-Eurovision-2022.jpg",
         Title : "“I found the right one at the wrong time” — Cornelia Jakobs’ “Hold Me Closer” lyrics lament the turmoil of a breakup",
         Body : "In 2011 and 2012, she participated as part of girl group Love Generation, and in 2021 she returned as one of the songwriters behind Efraim Leo’s “Best of Me”. Cornelia is the daughter of The Poodles’ Jakob Samuels — who took on the Melfest challenge in 2006 and 2008 — and has been surrounded by music all her life. Since she was just seven years old, she found her forte on the stage and grew up playing in various rock bands throughout middle school. Cornelia’s discography already boasts nine singles, with her debut studio album set for release soon. “Hold Me Closer” is about the emotional turmoil of working through a difficult breakup. Cornelia Jakobs sings about wanting to hold on to her significant other for as long as possible, even though she knows their relationship is coming to an end. With lyrics such as “I found the right one at the wrong time” and “guess all the good things come to an end”, Cornelia laments the happenstance and spontaneity of love.",
@@ -387,7 +387,7 @@ const ArrayofBlogs = [
     
     {
         ID : '1',
-        Author : "Brajeswar Ghosh",
+        Author : "Sahil Garg",
         Image : "https://post.healthline.com/wp-content/uploads/2020/01/Runner-training-on-running-track-732x549-thumbnail.jpg",
         Title : "Running",
         Body : "Running is an essential component of many sports, from football to cricket. It’s no surprise, then, that regular running workouts, which help improve your stamina, speed, and cardiovascular endurance, can make you a stronger, more adaptable athlete. 10. Running can improve your mental well-being.",
@@ -398,7 +398,7 @@ const ArrayofBlogs = [
     },
     {
         ID : '2',
-        Author : "Brajeswar Ghosh",
+        Author : "Sahil Garg",
         Image : "https://media.gettyimages.com/photos/male-gymnast-doing-handstand-on-pommel-horse-picture-id532416167?s=612x612",
         Title : "Gymnastics",
         Body : "Gymnastics, the performance of systematic exercises—often with the use of rings, bars, and other apparatus—either as a competitive sport or to improve strength, agility, coordination, and physical conditioning.",
@@ -409,7 +409,7 @@ const ArrayofBlogs = [
     },
     {
         ID : '3',
-        Author : "Brajeswar Ghosh",
+        Author : "Sahil Garg",
         Image : "https://cdn.mos.cms.futurecdn.net/foejuANBeiCtYkT6PaXW9F-1200-80.jpg",
         Title : "Cycling",
         Body : "Cycling is widely regarded as a very effective and efficient mode of transportation optimal for short to moderate distances. Bicycles provide numerous benefits in comparison with motor vehicles, including the sustained physical exercise involved in cycling, easier parking, increased maneuverability, and access to roads, bike paths and rural trails.",
@@ -420,7 +420,7 @@ const ArrayofBlogs = [
     },
     {
         ID : '4',
-        Author : "Brajeswar Ghosh",
+        Author : "Sahil Garg",
         Image : "https://post.healthline.com/wp-content/uploads/2020/01/Runner-training-on-running-track-732x549-thumbnail.jpg",
         Title : "Running",
         Body : "Running is an essential component of many sports, from football to cricket. It’s no surprise, then, that regular running workouts, which help improve your stamina, speed, and cardiovascular endurance, can make you a stronger, more adaptable athlete. 10. Running can improve your mental well-being.",
@@ -431,7 +431,7 @@ const ArrayofBlogs = [
     },
     {
         ID : '5',
-        Author : "Brajeswar Ghosh",
+        Author : "Sahil Garg",
         Image : "https://static01.nyt.com/images/2016/12/02/well/move/yoga_body_images-slide-NY4R/yoga_body_images-slide-NY4R-superJumbo.jpg",
         Title : "Yoga",
         Body : "Yoga is one of the six orthodox schools of Hindu philosophical traditions. There is a broad variety of yoga schools, practices, and goals in Hinduism, Buddhism, and Jainism. Among the best-known types of yoga are Hatha yoga and Rāja yoga.",
@@ -442,7 +442,7 @@ const ArrayofBlogs = [
     },
     {
         ID : '6',
-        Author : "Brajeswar Ghosh",
+        Author : "Sahil Garg",
         Image : "https://image.shutterstock.com/image-photo/skateboarder-young-teenager-man-isolated-260nw-519472180.jpg",
         Title : "Skateboarding",
         Body : "Skateboarding is an action sport which involves riding and performing tricks using a skateboard, as well as a recreational activity, an art form, a entertainment industry job, and a method of transportation",
@@ -453,7 +453,7 @@ const ArrayofBlogs = [
     },
     {
         ID : '7',
-        Author : "Brajeswar Ghosh",
+        Author : "Sahil Garg",
         Image : "https://post.healthline.com/wp-content/uploads/2020/01/Runner-training-on-running-track-732x549-thumbnail.jpg",
         Title : "Running",
         Body : "Running is an essential component of many sports, from football to cricket. It’s no surprise, then, that regular running workouts, which help improve your stamina, speed, and cardiovascular endurance, can make you a stronger, more adaptable athlete. 10. Running can improve your mental well-being.",
@@ -464,7 +464,7 @@ const ArrayofBlogs = [
     },
     {
         ID : '8',
-        Author : "Brajeswar Ghosh",
+        Author : "Sahil Garg",
         Image : "https://media.gettyimages.com/photos/male-gymnast-doing-handstand-on-pommel-horse-picture-id532416167?s=612x612",
         Title : "Gymnastics",
         Body : "Gymnastics, the performance of systematic exercises—often with the use of rings, bars, and other apparatus—either as a competitive sport or to improve strength, agility, coordination, and physical conditioning.",
@@ -475,7 +475,7 @@ const ArrayofBlogs = [
     },
     {
         ID : '9',
-        Author : "Brajeswar Ghosh",
+        Author : "Sahil Garg",
         Image : "https://cdn.mos.cms.futurecdn.net/foejuANBeiCtYkT6PaXW9F-1200-80.jpg",
         Title : "Cycling",
         Body : "Cycling is widely regarded as a very effective and efficient mode of transportation optimal for short to moderate distances. Bicycles provide numerous benefits in comparison with motor vehicles, including the sustained physical exercise involved in cycling, easier parking, increased maneuverability, and access to roads, bike paths and rural trails.",
@@ -486,7 +486,7 @@ const ArrayofBlogs = [
     },
     {
         ID : '10',
-        Author : "Brajeswar Ghosh",
+        Author : "Sahil Garg",
         Image : "https://post.healthline.com/wp-content/uploads/2020/01/Runner-training-on-running-track-732x549-thumbnail.jpg",
         Title : "Running",
         Body : "Running is an essential component of many sports, from football to cricket. It’s no surprise, then, that regular running workouts, which help improve your stamina, speed, and cardiovascular endurance, can make you a stronger, more adaptable athlete. 10. Running can improve your mental well-being.",
@@ -497,7 +497,7 @@ const ArrayofBlogs = [
     },
     {
         ID : '11',
-        Author : "Brajeswar Ghosh",
+        Author : "Sahil Garg",
         Image : "https://static01.nyt.com/images/2016/12/02/well/move/yoga_body_images-slide-NY4R/yoga_body_images-slide-NY4R-superJumbo.jpg",
         Title : "Yoga",
         Body : "Yoga is one of the six orthodox schools of Hindu philosophical traditions. There is a broad variety of yoga schools, practices, and goals in Hinduism, Buddhism, and Jainism. Among the best-known types of yoga are Hatha yoga and Rāja yoga.",
@@ -508,7 +508,7 @@ const ArrayofBlogs = [
     },
     {
         ID : '12',
-        Author : "Brajeswar Ghosh",
+        Author : "Sahil Garg",
         Image : "https://image.shutterstock.com/image-photo/skateboarder-young-teenager-man-isolated-260nw-519472180.jpg",
         Title : "Skateboarding",
         Body : "Skateboarding is an action sport which involves riding and performing tricks using a skateboard, as well as a recreational activity, an art form, a entertainment industry job, and a method of transportation",
@@ -636,7 +636,7 @@ const ArrayofBlogs = [
     
     {
         ID : '1',
-        Author : "Brajeswar Ghosh",
+        Author : "Sahil Garg",
         Image : "https://lp-cms-production.imgix.net/2021-07/GettyRF_582021521.jpg?auto=format&fit=crop&sharp=10&vib=20&ixlib=react-8.6.4&w=850",
         Title : "Rome : City of Seven Hills",
         Body : "Rome is regarded as one of the world's most beautiful ancient cities, and contains vast amounts of priceless works of art, palaces, museums, parks, churches, gardens, basilicas, temples, villas, piazzas, theatres, and other venues in general. As one of the world's most important and visited cities, there are numerous popular tourist attractions.",
@@ -647,7 +647,7 @@ const ArrayofBlogs = [
     },
     {
         ID : '2',
-        Author : "Brajeswar Ghosh",
+        Author : "Sahil Garg",
         Image : "https://www.raconteur.net/wp-content/uploads/2016/11/India-smart-cities-1280x720.jpg",
         Title : "EARNING ABROAD: CANYON GUIDING IN INDIA",
         Body : "Welcome to Earning Abroad! In this series I’ll introduce you to some inspiring and ambitious friends I’ve met on the road — friends who have found viable work away from their home countries.  Do you guys read Further Bound? If not, I recommend adding it to your reading list immediately. After years of mutual blog fandom, Further Bound author Hannah and I finally met during my last trip to London. We hit it off immediately and I was thrilled when we bumped back into each other once again during my latest trip to Indonesia. This time, I also met Hannah’s charming Scottish partner, Lee Vine. Over dinner at the local market, Lee mentioned his adventures as a canyoning guide in India, a decision he perhaps regretted when I started pestering him for an interview. Ever wonder what it’s like to spend your days leading high-adrenaline outdoor adventures? Over to Lee to find out!",
@@ -691,7 +691,7 @@ const ArrayofBlogs = [
     },
     {
         ID : '6',
-        Author : "Brajeswar Ghosh",
+        Author : "Sahil Garg",
         Image : "https://lp-cms-production.imgix.net/2021-07/GettyRF_582021521.jpg?auto=format&fit=crop&sharp=10&vib=20&ixlib=react-8.6.4&w=850",
         Title : "Rome : City of Seven Hills",
         Body : "Rome is regarded as one of the world's most beautiful ancient cities, and contains vast amounts of priceless works of art, palaces, museums, parks, churches, gardens, basilicas, temples, villas, piazzas, theatres, and other venues in general. As one of the world's most important and visited cities, there are numerous popular tourist attractions.",
@@ -702,7 +702,7 @@ const ArrayofBlogs = [
     },
     {
         ID : '7',
-        Author : "Brajeswar Ghosh",
+        Author : "Sahil Garg",
         Image : "https://www.raconteur.net/wp-content/uploads/2016/11/India-smart-cities-1280x720.jpg",
         Title : "EARNING ABROAD: CANYON GUIDING IN INDIA",
         Body : "Welcome to Earning Abroad! In this series I’ll introduce you to some inspiring and ambitious friends I’ve met on the road — friends who have found viable work away from their home countries.  Do you guys read Further Bound? If not, I recommend adding it to your reading list immediately. After years of mutual blog fandom, Further Bound author Hannah and I finally met during my last trip to London. We hit it off immediately and I was thrilled when we bumped back into each other once again during my latest trip to Indonesia. This time, I also met Hannah’s charming Scottish partner, Lee Vine. Over dinner at the local market, Lee mentioned his adventures as a canyoning guide in India, a decision he perhaps regretted when I started pestering him for an interview. Ever wonder what it’s like to spend your days leading high-adrenaline outdoor adventures? Over to Lee to find out!",
